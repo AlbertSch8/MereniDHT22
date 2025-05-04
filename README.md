@@ -31,5 +31,7 @@ Vizualizace dat probíhá pomocí Grafany , kde je vytvořen playbook, který z 
 Přístup na Grafanu
 
 http://raspberrypi_IP_address:3000
-Username:Admin
-Password:pArgar-5kudvu-vabsuj
+
+Username: Admin
+
+Password: pArgar-5kudvu-vabsuj

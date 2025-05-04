@@ -1,5 +1,7 @@
 # Měření teploty a vlhkosti pomocí RPi a DHT22
 
+# Inatalace
+
 1. Instalace python
    
       sudo apt install python3-build-hat

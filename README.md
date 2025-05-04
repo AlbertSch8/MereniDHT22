@@ -47,7 +47,7 @@ Username: Admin
 
 Password: pArgar-5kudvu-vabsuj
 
-# Sensor
+# Senzor
 |          | DHT22           | 
 | ------------- |:-------------:| 
 | Teplotní rozsah     | -40 to 80 ºC    | 

@@ -31,7 +31,7 @@
 
       skript vyčte teplotu a vlhkost a uloží hodnoty do databáze a vypíše do stdout
 
-      [script](dht_merenei.py)
+      [script](https://github.com/AlbertSch8/MereniDHT22/blob/main/dht_mereni.py)
    
 6. grafana 
    

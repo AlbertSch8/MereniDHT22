@@ -30,8 +30,10 @@
 4. python skript na měření teploty a vlhkosti
 
       skript vyčte teplotu a vlhkost a uloží hodnoty do databáze a vypíše do stdout
+
+      [script](dht_merenei.py)
    
-5. grafana 
+6. grafana 
    
       sudo mkdir -p /etc/apt/keyrings/
    
@@ -47,7 +49,7 @@
    
       sudo /bin/systemctl start grafana-server
    
-6. crontab - každou minutu je spouštěn python skript na měření
+7. crontab - každou minutu je spouštěn python skript na měření
 
       myenv/bin/python /home/albert/dht_mereni.py >> /home/albert/mereni.txt
 

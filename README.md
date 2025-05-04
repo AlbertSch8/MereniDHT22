@@ -29,6 +29,7 @@
 Vizualizace dat probíhá pomocí Grafany , kde je vytvořen playbook, který z SQLite databáze zobrazuje v grafu teplotu a vlhkost.
 
 Přístup na Grafanu
-[http://raspberrypi_IP_address:3000/]
+
+http://raspberrypi_IP_address:3000
 Username:Admin
 Password:pArgar-5kudvu-vabsuj

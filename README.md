@@ -2,11 +2,11 @@
 
 1. Instalace python
    
-sudo apt install python3-build-hat
+      sudo apt install python3-build-hat
 
 2. knihovna zpřístupňující DHT22 (Adafruit)
 
-git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+      git clone https://github.com/adafruit/Adafruit_Python_DHT.git
 
 cd Adafruit_Python_DHT
 

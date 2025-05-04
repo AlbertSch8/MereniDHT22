@@ -1,6 +1,6 @@
 # Měření teploty a vlhkosti pomocí RPi a DHT22
 
-# Inatalace
+# Instalace
 
 1. Instalace python
    
@@ -56,5 +56,7 @@ Password: pArgar-5kudvu-vabsuj
 | Perioda čtení | 2 sec    |
 | Pracovní napětí | 3 – 6 V DC  |
 | Proudový odběr| 1 – 1.5 mA  |
+
+Senzor je k RPi připojen na pin GPIO4
 
 

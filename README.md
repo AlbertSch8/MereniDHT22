@@ -46,3 +46,15 @@ http://raspberrypi_IP_address:3000
 Username: Admin
 
 Password: pArgar-5kudvu-vabsuj
+
+# Sensor
+|          | DHT22           | 
+| ------------- |:-------------:| 
+| Teplotní rozsah     | -40 to 80 ºC    | 
+| Rozsah vlhkosti      | 0 to 100%      |  
+| Rozlišení | Vlhkost: 0.1%, Teplota: 0.1ºC     |
+| Perioda čtení | 2 sec    |
+| Pracovní napětí | 3 – 6 V DC  |
+| Proudový odběr| 1 – 1.5 mA  |
+
+

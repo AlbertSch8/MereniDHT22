@@ -16,11 +16,20 @@
 
       sudo apt-get install sqlite3
 
-4. python skript na měření teploty a vlhkosti
+      sqlite3 /opt/bertiho_db
+
+      ` CREATE TABLE mereniDHT22(
+    id INTEGER PRIMARY KEY,
+    teplota float,
+    vlhkost float,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+); `
+
+5. python skript na měření teploty a vlhkosti
 
       skript vyčte teplotu a vlhkost a uloží hodnoty do databáze a vypíše do stdout
 
-5. crontab - každou minutu je spouštěn python skript na měření
+6. crontab - každou minutu je spouštěn python skript na měření
 
       myenv/bin/python /home/albert/dht_mereni.py >> /home/albert/mereni.txt
 

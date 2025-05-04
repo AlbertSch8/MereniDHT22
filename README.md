@@ -1,4 +1,4 @@
-# Mereni teploty a vlhkosti pomoci RPi a DHT22
+# Měření teploty a vlhkosti pomocí RPi a DHT22
 
 1. Instalace python
    
